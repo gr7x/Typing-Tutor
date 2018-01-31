@@ -1,0 +1,18 @@
+C:\Users\Bryan\Desktop\Keyboarding\Keyboarding\bin\Debug\Keyboarding.exe.config
+C:\Users\Bryan\Desktop\Keyboarding\Keyboarding\bin\Debug\Keyboarding.exe
+C:\Users\Bryan\Desktop\Keyboarding\Keyboarding\bin\Debug\Keyboarding.pdb
+C:\Users\Bryan\Desktop\Keyboarding\Keyboarding\obj\Debug\Keyboarding.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\Keyboarding\Keyboarding\obj\Debug\Keyboarding.Form1.resources
+C:\Users\Bryan\Desktop\Keyboarding\Keyboarding\obj\Debug\Keyboarding.Properties.Resources.resources
+C:\Users\Bryan\Desktop\Keyboarding\Keyboarding\obj\Debug\Keyboarding.csproj.GenerateResource.Cache
+C:\Users\Bryan\Desktop\Keyboarding\Keyboarding\obj\Debug\Keyboarding.exe
+C:\Users\Bryan\Desktop\Keyboarding\Keyboarding\obj\Debug\Keyboarding.pdb
+C:\Users\Bryan\Desktop\School Projects\Keyboarding\Keyboarding\bin\Debug\Keyboarding.exe.config
+C:\Users\Bryan\Desktop\School Projects\Keyboarding\Keyboarding\obj\Debug\Keyboarding.exe
+C:\Users\Bryan\Desktop\School Projects\Keyboarding\Keyboarding\obj\Debug\Keyboarding.pdb
+C:\Users\Bryan\Desktop\School Projects\Keyboarding\Keyboarding\bin\Debug\Keyboarding.exe
+C:\Users\Bryan\Desktop\School Projects\Keyboarding\Keyboarding\bin\Debug\Keyboarding.pdb
+C:\Users\Bryan\Desktop\School Projects\Keyboarding\Keyboarding\obj\Debug\Keyboarding.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Desktop\School Projects\Keyboarding\Keyboarding\obj\Debug\Keyboarding.Form1.resources
+C:\Users\Bryan\Desktop\School Projects\Keyboarding\Keyboarding\obj\Debug\Keyboarding.Properties.Resources.resources
+C:\Users\Bryan\Desktop\School Projects\Keyboarding\Keyboarding\obj\Debug\Keyboarding.csproj.GenerateResource.Cache
