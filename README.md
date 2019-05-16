@@ -1,3 +1,3 @@
 # Typing-Tutor
 
-C# Webform Application for practicing typing
+C# Application for Typing Practice
