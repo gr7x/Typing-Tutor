@@ -41,11 +41,5 @@ namespace Keyboarding
             
             
         }
-       /*TODO Find out why the value wont pass
-        * public void addCount()
-        {
-            count += 1;
-        }
-        * */
     }
 }
